@@ -1,0 +1,12 @@
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\bin\Debug\Quicksort_SLIM.exe.config
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\bin\Debug\Quicksort_SLIM.exe
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\bin\Debug\Quicksort_SLIM.pdb
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\bin\Debug\aa\Quicksort_SLIM.resources.dll
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.csprojResolveAssemblyReference.cache
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.frmQSS.resources
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.Properties.Resources.resources
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.frmQSS.aa.resources
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.csproj.GenerateResource.Cache
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\aa\Quicksort_SLIM.resources.dll
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.exe
+H:\Projecten\Quicksort_SLIM\Quicksort_SLIM\obj\Debug\Quicksort_SLIM.pdb
